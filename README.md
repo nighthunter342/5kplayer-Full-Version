@@ -241,4 +241,4 @@ This repository serves as the official landing page for 5KPlayer. The software i
 **Get the most recent version of 5KPlayer today!**
 
 ---
-**Last updated:** 2026-10-30 13:48:15 UTC
+**Last updated:** 2026-10-30 18:57:41 UTC
